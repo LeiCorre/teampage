@@ -1,6 +1,6 @@
 .head-grid {
     display: grid;
-    grid-template-columns: auto 31% auto;
+    grid-template-columns: auto 27% auto;
     width: 50%;
     margin: 3% auto;
     align-content: start;
